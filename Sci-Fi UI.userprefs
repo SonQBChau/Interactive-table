@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CircularMenu.cs">
+    <Files>
+      <File FileName="Assets/TouchScript/Scripts/Behaviors/Visualizer/TouchProxy.cs" Line="165" Column="24" />
+      <File FileName="Assets/Scripts/CircularMenu.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/displayScript.cs" Line="56" Column="16" />
+      <File FileName="Assets/Plugins/Excelsior/CSFHI/Scripts/InterfaceAnimManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/TouchScript/Scripts/Behaviors/Visualizer/TouchVisualizer.cs" Line="182" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

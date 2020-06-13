@@ -7,20 +7,12 @@
 alt="Youtube video" width="240" height="180" border="10" /></a>
 
 ## Screenshots: 
-![Screenshot](img/1.jpg)
-![Screenshot](img/2.jpg)
-![Screenshot](img/3.jpg)
-![Screenshot](img/4.jpg)
-![Screenshot](img/5.jpg)
-![Screenshot](img/6.jpg)
-![Screenshot](img/7.jpg)
-![Screenshot](img/8.jpg)
-![Screenshot](img/9.jpg)
-![Screenshot](img/10.jpg)
-![Screenshot](img/11.jpg)
-![Screenshot](img/12.jpg)
-![Screenshot](img/13.jpg)
-![Screenshot](img/14.jpg)
+
+https://photos.app.goo.gl/HWo4QsTqvSgmPvLg7
+
+![Screenshot](img/combine1.jpg)
+![Screenshot](img/combine2.jpg)
+
 
 
 
